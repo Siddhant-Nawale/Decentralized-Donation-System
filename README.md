@@ -1,4 +1,4 @@
-# Decentralized-Donation-System
+# Decentralized Donation System
 
 ## Description
 
@@ -6,41 +6,55 @@ This project introduces a revolutionary solution to address the transparency con
 
 ## Table of Contents
 
-- Decentralized-Donation-System(#Decentralized-Donation-System)
+- [Decentralized Donation System](#decentralized-donation-system)
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-  - [Usage](#usage)
   - [Contributing](#contributing)
-  - [License](#license)
-  - [Contact](#contact)
 
 ## Getting Started
 
-Briefly describe the initial steps someone needs to take to get your project up and running.
+Follow these steps to get the project up and running on your local machine.
 
-## Prerequisites
+### Clone the repository
 
-List any prerequisites that someone would need before starting with your project.
+```bash
+git clone https://github.com/Siddhant-Nawale/Decentralized-Donation-System.git
+cd Decentralized-Donation-System
+cd Frondend
+```
+### Installation
 
-## Installation
+```bash
+npm install
+```
 
-Describe how to install and set up your project. Include any dependencies and instructions for getting the project running on a local machine.
+### Invocation
 
-## Usage
-
-Provide examples or instructions on how to use your project. Include any relevant screenshots or code snippets.
+```bash
+npm run dev
+```
 
 ## Contributing
 
-Explain how others can contribute to your project. Include guidelines for submitting bug reports, feature requests, or code contributions.
+We welcome contributions from the community. Here's how you can contribute to this project.
 
-## License
+### Creating Pull Requests
+```
+- Fork the repository.
+- Create a new branch with a descriptive name for your feature or fix.
+- Make your changes and test them.
+- Create a pull request with a clear title and description.
+```
 
-Specify the license under which your project is distributed. If you're unsure, [choose a license](https://choosealicense.com/).
 
-## Contact
+### Commit Linting Standards
+```
+- feat: New feature
+- fix: Bug fix
+- docs: Documentation changes
+- chore: Maintenance or tooling updates
+```
 
-Include your contact information or a way for users to get in touch with you. This can include an email address, a link to your personal website, or your social media profiles.
+Thank you for your interest in contributing!
