@@ -1,12 +1,12 @@
-# Project Name
+# Decentralized-Donation-System
 
 ## Description
 
-Provide a brief description of your project. Explain what problem it solves or what it aims to achieve.
+This project introduces a revolutionary solution to address the transparency concerns in the world of charitable donations. Leveraging blockchain technology, we provide a decentralized donation system that empowers donors with the ability to trace their contributions and monitor the utilization of their funds. Smart contracts play a pivotal role in ensuring that contributors have full visibility into the details of their donations, marking a new era in charitable giving.
 
 ## Table of Contents
 
-- [Project Name](#project-name)
+- Decentralized-Donation-System(#Decentralized-Donation-System)
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [Getting Started](#getting-started)
